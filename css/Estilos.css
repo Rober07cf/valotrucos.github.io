@@ -1,0 +1,99 @@
+            body{
+                background-color: #001F3F;
+                font-family: "Trebuchet MS", Tahoma, Arial;
+                font-size: 100%;
+                
+            }
+            header{
+                background-color: #001F3F;
+                color: #3A6D8C;
+                
+            }
+            footer{
+                height:400px;
+                width:100%px;
+            }
+            .carousel-item img{
+                width: 100%px;  
+                height: 650px; 
+                max-height:750px;
+                object-fit: contain;
+                border: 12px ridge #001F3F;
+            }
+            #carouselExampleIndicators{
+                background-color:#001F3F;
+            }
+
+            .navbar{
+                height: auto;
+                width: auto;
+            }
+            .container-fluid{
+                background-color: #3A6D8C;
+            }
+            .navbar nav{
+                background-color: #001F3F;
+            }
+            .LogoMenu img{
+                height: 200px;
+                width: 100%;
+            }
+            .MenuDiv1{
+                height: 1850px;
+                width: 1000px;
+                display: block;
+                margin: auto;
+            }
+            .MenuDiv1 img{
+                height: 500px;
+                width: 700px;
+            }
+            h3{
+                color: #6A9AB0;
+            }
+            h5{
+                color: #6A9AB0;
+            }
+            a:hover{
+                color: #3A6D8C;
+            }
+            h1{
+                color: #3A6D8C;
+            }
+            p{
+                color: #EAD8B1;
+            }
+            nav{
+                color: #6A9AB0;     
+            }
+            nav ul li{
+                color: #6A9AB0; 
+            }
+
+            .MenuDiv2{
+                height: 1850px;
+                width: 1000px;
+                display: block;
+                margin: auto;
+            }
+            .Armas{
+                height: 1550px;
+                width: 1000px;
+                display: block;
+                margin: auto;
+                color: #EAD8B1;
+            }
+            .Armas th{
+                color: #EAD8B1;
+            }
+            .regenerativo img{
+                height: 190px;
+                width: 135px;
+    
+            }
+            .menuA ul{
+                list-style: none;
+            }
+            
+
+
